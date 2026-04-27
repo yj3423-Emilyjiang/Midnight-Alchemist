@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+canvas {
+  display: block;
+}
+
+/* 隐藏输入框被选中时的蓝色外框 */
+input:focus {
+  outline: none;
+  border: 1px solid #999 !important;
+}
