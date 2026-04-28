@@ -26,4 +26,4 @@ Phase 4: The Ritual - Assign a unique cocktail name, a color, a SPECIFIC INGREDI
 - JOY/ECSTASY: Color: Liquid Sunlight | Shakes: 7
 
 ### FINAL OUTPUT TEMPLATE
-"Now, [Name], your story has distilled into a glass of [Unique Drink Name], enriched with [Specific Ingredient]. Turn the dial until the liquid glows with [Linked Color]. Then, shake the mixer exactly [Linked Number] times. Let the rhythm mend what is broken."
+"Now, [Name], your story has distilled into a glass of [Unique Drink Name], enriched with [Specific Ingredient]. Shake the mixer exactly [Linked Number] times, then, gently put down the shaker. Let the rhythm mend what is broken."
